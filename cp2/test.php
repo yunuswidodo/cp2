@@ -29,7 +29,7 @@
 
     <h2> Data Pelanggan </h2>
     <br>
-    <a href="tamabah.php"> +Tambah Mahasiswa</a>
+    <a href="tambah.php"> +Tambah Pelanggan</a>
     <br>
     <br>
     <table border="1" >
